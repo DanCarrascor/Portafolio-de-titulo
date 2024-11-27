@@ -1,0 +1,6 @@
+@sistema_contable_HostAddress = http://localhost:5058
+
+GET {{sistema_contable_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
